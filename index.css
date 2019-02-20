@@ -1,0 +1,148 @@
+.header
+{
+    position: absolute;
+    background-color: #FBFDFF;
+    width:100%;
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+li
+{
+    display: inline-block;
+    font-size: 11px;
+    padding: 23px;
+
+
+
+}
+
+a
+{
+    text-decoration: none;
+    color: #828283;
+    
+
+}
+a:visited
+{
+    color: #828283;
+
+}
+        
+body
+{
+    margin:0%;
+    height:100% ;
+    background: linear-gradient(to top, #49B4ED, rgb(39, 127, 214));
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#boldtrinity
+{
+    font-weight: bold;
+    font-size: 15px;
+    color: #828283;
+    
+}
+.styledpara
+{
+    color: #DBEDFC;
+    /*min-width: 75%;*/
+
+    
+}
+.heading
+{
+    
+    font-size: 35px;
+}
+.stylingtext
+{
+
+    font-size: 14px;
+    color: #B3DBF8;
+}
+.styledform
+{
+    position: absolute;
+
+text-align: center;
+}
+form{
+    
+background-color: #FFFFFF;
+min-width: 250px;
+padding: 22px;
+border: none;
+height: 300px;
+box-shadow: 2px 2px 1px #C6E0F9;
+
+}
+input
+{
+    padding: 10px 30px;
+    border: none;
+    border-bottom: 1px solid rgb(238, 228, 228);
+    font-size: 12px;
+    color:#A3A3A4;
+    
+
+}
+.align
+{
+
+    display: inline-block;
+    margin-left:60px;
+    margin-top: 0px;
+    padding:230px 90px;
+    text-align: center;
+}
+.free
+{
+    color: #2196F3;
+    font-weight: bold;
+}
+.styledbtn
+{
+    margin-top: 15px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 20px;
+    padding: 12px 30px;
+    color: #FBFDFF;
+    background-color: #2196F3;
+    border: none;
+    font-size: 11px;
+    font-weight: bold;
+    border-bottom: 2px 2px 0px #E4E4E7;
+
+}
+.option
+{
+   
+    display: inline-block;
+    writing-mode:vertical-rl;
+    font-size: 13px;
+    background:#161616;
+    padding: 10px 7px;
+    transform: rotate(180deg);
+    margin-bottom: 160px;
+    color:#ECF6FE;
+    background-color: #2196F3;
+    font-weight: bold;
+   
+  
+
+}
+
+.p1{
+    margin: 0%;
+    margin-top: 20px;
+    
+    text-align: left;
+}
+p
+{
+
+    text-align: left;
+}
